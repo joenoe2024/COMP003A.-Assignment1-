@@ -113,7 +113,6 @@ namespace COMP003A.Assignment1
             Console.WriteLine("98. game of thrones is cool");
             Console.WriteLine("99. dolphins are evil");
             Console.WriteLine("100. finally done");
-
         }
     }
 }
